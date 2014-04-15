@@ -1,4 +1,4 @@
-# ShowOpenFiles
+# Show Open Files
 
 Simple plugin for Sublime Text to show the number of open files in the status bar.
 
@@ -7,8 +7,6 @@ Simple plugin for Sublime Text to show the number of open files in the status ba
 You may either install using Package Control (which gains you automatic updates and a simpler install), or manually using `git`.
 
 ### Package Control (Recommended)
-
-_**Note**: The package is not yet on Package Control. Please use the manual installation for now._
 
 1. Install [Sublime Package Control](http://wbond.net/sublime_packages/package_control/installation).
 2. Run `Package Control: Install Package` from the Command Palette
