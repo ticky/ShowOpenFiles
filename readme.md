@@ -10,7 +10,7 @@ You may either install using Package Control (which gains you automatic updates 
 
 1. Install [Sublime Package Control](http://wbond.net/sublime_packages/package_control/installation).
 2. Run `Package Control: Install Package` from the Command Palette
-3. Find and install the `ShowOpenFiles` plugin
+3. Find and install the `Show Open Files` plugin
 
 ### Manual
 
@@ -19,7 +19,7 @@ You may either install using Package Control (which gains you automatic updates 
 	* OS X: `~/Library/Application Support/Sublime Text 3/Packages/`
 	* Linux: `~/.config/sublime-text-3/Packages/`
 	* Portable Installation: `Sublime Text 3/Data/Packages/`
-2. `git clone https://github.com/geoffstokes/ShowOpenFiles.git ShowOpenFiles`
+2. `git clone https://git.gitorious.org/geoffstokes/show-open-files.git`
 
 _**Note**: For Sublime Text 2 users, substitute the `3` in the above directory names with `2`._
 
